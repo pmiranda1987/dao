@@ -7,6 +7,7 @@ package Modelo;
 public class Persona {
     private String id, nombre, sexo, apellido, carrera;
     private int edad;
+    private string peso;
 
     public String getId() {
         return id;
